@@ -1,0 +1,7 @@
+* design UI for picking chords (maybe SVG?)
+* UI for picking chords: start with minimal idea. region based. squares (instead of circle)
+* UI for change keys
+* UI for listing chords in current progression
+* save progressions to URL or local storage
+* play chord progression using synth sounds 
+
